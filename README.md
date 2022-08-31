@@ -1,6 +1,6 @@
 # Multi-threaded training of Logistic Regression Model using Stochastic Gradient Descent
 
-Dataset used - [covtype.binary] (https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html)
+Dataset used - [covtype.binary](https://www.csie.ntu.edu.tw/~cjlin/libsvmtools/datasets/binary.html)
 
 ## Approach 1
 In this approach the threads used are:
@@ -23,5 +23,5 @@ memory and computes the update to parameters. We call these worker threads.
 
 ## Results
 
-![Comparing execution times of Approach 1 & 2] (results.png)
+![Comparing execution times of Approach 1 & 2](results.png)
 
